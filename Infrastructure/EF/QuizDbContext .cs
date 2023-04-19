@@ -1,4 +1,5 @@
 ﻿using Infrastructure.EF.Entities;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,18 +9,19 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.EF
 {
-    public class QuizDbContext : DbContext
+    public class QuizDbContext : IdentityDbContext<UserEntity,UserRole,int>
     {
         public DbSet<QuizEntity> Quizzes { get; set; }
         public DbSet<QuizItemEntity> QuizItems { get; set; }
         public DbSet<QuizItemUserAnswerEntity> UserAnswers { get; set; }
         public DbSet<UserEntity> Users { get; set; }
+        public DbSet<UserRole> Roles { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlServer(
-                "DATA SOURCE=.;DATABASE=Lab6EF2;Integrated Security=true;TrustServerCertificate=True");
+                "DATA SOURCE=BR-17\\SQLEXPRESS;DATABASE=Lab6EF4;Integrated Security=true;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

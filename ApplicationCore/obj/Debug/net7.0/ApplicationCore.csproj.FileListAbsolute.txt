@@ -10,3 +10,15 @@ C:\Users\jasie\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\A
 C:\Users\jasie\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
 C:\Users\jasie\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
 C:\Users\jasie\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.AssemblyReference.cache
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll

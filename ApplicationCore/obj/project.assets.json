@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jasie\\.nuget\\packages\\": {}
+    "D:\\Users\\jan.swider\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jasie\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\jasie\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\jasie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jasie\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\obj\\",
+      "projectPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
+      "packagesPath": "D:\\Users\\jan.swider\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jasie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\jan.swider\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
