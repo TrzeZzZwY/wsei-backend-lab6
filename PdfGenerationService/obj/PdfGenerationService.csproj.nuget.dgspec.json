@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj": {}
+    "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj": {
+    "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
+        "projectUniqueName": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
         "projectName": "PdfGenerationService",
-        "projectPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
+        "projectPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
         "packagesPath": "D:\\Users\\jan.swider\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\obj\\",
+        "outputPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\jan.swider\\AppData\\Roaming\\NuGet\\NuGet.Config",

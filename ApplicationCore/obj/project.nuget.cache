@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5fWF1LYwJGFJBlYp3bgDlA/Sxoz68GEQsBrQgi0XkVrcZtsKaLflwp3YRMTTv9XlYvDyRYndSaPPdRUx877iIQ==",
+  "dgSpecHash": "h2iz+1LHxvw1hPfWc3BYpADv0UTurEvPKx8iCE81OiR93BOGtJDDzPszd2v/g2J0qp0RE/uoQDtUygQOTBTZkg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

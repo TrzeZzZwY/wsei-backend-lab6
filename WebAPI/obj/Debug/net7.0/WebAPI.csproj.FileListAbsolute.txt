@@ -157,3 +157,16 @@ D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\WebAPI\obj\Debug\net7.0\ref\W
 D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\JWT.dll
 D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Users\jan.swider\Source\Repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\DnsClient.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\SharpCompress.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\Snappier.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\ZstdSharp.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\WebAPI\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll

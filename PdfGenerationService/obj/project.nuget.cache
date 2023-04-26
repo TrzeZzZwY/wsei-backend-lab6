@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QbCon3i3m5Kl+nZWrw5y9aQ6NucFlrjEEErrk5pbqteSU36Qz2LBjdUGYDUYVFxmvP9TGGL7i9pcl5YVYbMtiQ==",
+  "dgSpecHash": "IHmsCTsOZZFYzOajjr/9BitAEv6HC1bbcJIWRu4cX/SX/F59lTZRuCToXiO8gnl/3F9zocdrF6ZFkkwp1CfvKg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
+  "projectFilePath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\PdfGenerationService\\PdfGenerationService.csproj",
   "expectedPackageFiles": [
     "D:\\Users\\jan.swider\\.nuget\\packages\\dinktopdf\\1.0.8\\dinktopdf.1.0.8.nupkg.sha512",
     "D:\\Users\\jan.swider\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",

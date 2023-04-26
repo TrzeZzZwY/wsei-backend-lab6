@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj": {}
+    "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj": {
+    "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
+        "projectUniqueName": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
         "projectName": "ConsoleGRPCClient",
-        "projectPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
+        "projectPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
         "packagesPath": "D:\\Users\\jan.swider\\.nuget\\packages\\",
         "outputPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\obj\\",
         "projectStyle": "PackageReference",

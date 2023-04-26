@@ -6,6 +6,8 @@ using Infrastructure.EF;
 using Infrastructure.EF.Entities;
 using Infrastructure.EF.Services;
 using Infrastructure.Memory.Repository;
+using Infrastructure.MongoDB.Services;
+using Infrastructure.MongoDB;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
 using Web;
@@ -61,7 +63,8 @@ builder.Services.AddSwaggerGen(options =>
         Title = "Quiz API",
     });
 });
-
+builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
+builder.Services.AddSingleton<QuizUserServiceMongoDB>();
 
 var app = builder.Build();
 

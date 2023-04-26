@@ -24,7 +24,7 @@ public class QuizItemUserAnswer: IIdentity<string>
     }
     public string Id
     {
-        get => $"{QuizId}{UserId}{QuizItem.Id}";
+        get => $"{QuizId}{UserId}{QuizItem?.Id}";
         set
         {
             
