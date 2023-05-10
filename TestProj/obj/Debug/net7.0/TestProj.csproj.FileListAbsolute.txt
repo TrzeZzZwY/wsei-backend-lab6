@@ -483,3 +483,4 @@ D:\Users\jan.swider\source\repos\wsei-backend-lab6\TestProj\obj\Debug\net7.0\ref
 D:\Users\jan.swider\source\repos\wsei-backend-lab6\TestProj\obj\Debug\net7.0\TestProj.pdb
 D:\Users\jan.swider\source\repos\wsei-backend-lab6\TestProj\obj\Debug\net7.0\TestProj.genruntimeconfig.cache
 D:\Users\jan.swider\source\repos\wsei-backend-lab6\TestProj\obj\Debug\net7.0\ref\TestProj.dll
+D:\Users\jan.swider\source\repos\wsei-backend-lab6\TestProj\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
