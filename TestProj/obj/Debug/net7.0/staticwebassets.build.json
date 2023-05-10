@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "OwNENlvdo0H0fI4s5pxEDuy3yXhXxM7enboknlfjlY4=",
+  "Source": "TestProj",
+  "BasePath": "_content/TestProj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\WebAPI\\WebAPI.csproj",
+      "Version": 2,
+      "Source": "WebAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

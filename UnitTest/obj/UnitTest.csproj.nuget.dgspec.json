@@ -11,7 +11,7 @@
         "projectName": "ApplicationCore",
         "projectPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "D:\\Users\\jan.swider\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ApplicationCore\\obj\\",
+        "outputPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\jan.swider\\AppData\\Roaming\\NuGet\\NuGet.Config",

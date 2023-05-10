@@ -17,7 +17,7 @@
     <ItemGroup>
       <ProjectReference Include="..\ApplicationCore\ApplicationCore.csproj" />
       <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
-    </ItemGroup>
+	</ItemGroup>
 
     <ItemGroup>
       <Folder Include="Mappers\" />

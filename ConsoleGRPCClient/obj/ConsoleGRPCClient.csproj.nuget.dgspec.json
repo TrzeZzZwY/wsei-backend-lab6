@@ -11,7 +11,7 @@
         "projectName": "ConsoleGRPCClient",
         "projectPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
         "packagesPath": "D:\\Users\\jan.swider\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jan.swider\\Source\\Repos\\wsei-backend-lab6\\ConsoleGRPCClient\\obj\\",
+        "outputPath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\jan.swider\\AppData\\Roaming\\NuGet\\NuGet.Config",

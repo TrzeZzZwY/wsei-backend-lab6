@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "alORFQ9tC+nD0AKG+/E/NN33/AsGuO1crsGB5i9Ittbzyjd/js84/Q7WemU/+zK0ZPe3FXDb8IanaB47GzzlqQ==",
+  "dgSpecHash": "nn3cCjalmJY3nzs8UU0vrTT2PhBRl3TTHgW0fZOLKH33KhnJNEaYDuWM3wZFhTZdpOxshvgbejv0isqQv9d44w==",
   "success": true,
   "projectFilePath": "D:\\Users\\jan.swider\\source\\repos\\wsei-backend-lab6\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
   "expectedPackageFiles": [
